@@ -1,0 +1,40 @@
+_repo: Vie-privee-et-publique-des-animaux_57075
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Grandville, J. J.
+    aliases:
+    - Grandville, Jean Ignace Isidore Gerard, called
+    - Grandville, Jean Ignace Isidore Gérard, called
+    - Gérard, Jean Ignace Isidore
+    birthdate: 1803
+    deathdate: 1847
+    gutenberg_agent_id: '25811'
+    url: http://www.gutenberg.org/2009/agents/25811
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Stahl, Pierre Jules
+    gutenberg_agent_id: '49180'
+    url: http://www.gutenberg.org/2009/agents/49180
+description: ''
+gutenberg_bookshelf:
+- FR Illustrateurs
+- FR Humour
+- FR Nouveautés
+gutenberg_issued: '2018-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57075'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Vie privée et publique des animaux
+url: http://www.gutenberg.org/ebooks/57075
