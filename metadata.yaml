@@ -11,6 +11,9 @@ contributor:
     deathdate: 1847
     gutenberg_agent_id: '25811'
     url: http://www.gutenberg.org/2009/agents/25811
+covers:
+- cover_type: archival
+  image_path: 57075-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -22,6 +25,8 @@ creator:
     gutenberg_agent_id: '49180'
     url: http://www.gutenberg.org/2009/agents/49180
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57075#Vie-privee-et-publique-des-animaux
 gutenberg_bookshelf:
 - FR Illustrateurs
 - FR Humour
